@@ -1,15 +1,15 @@
 personal_information:
-  name: "[Your name]"
-  surname: "[Your surname]"
-  dateOfBirth: "[Your Date of Birth]"
-  country: "[Your country]"
-  city: "[Your city]"
-  address: "[Your address]"
-  phonePrefix: "[Your phone number prefix]"
-  phone: "[Your phone number]"
-  email: "[Your email]"
-  github: "[Link]"
-  linkedin: "[Link]"
+  name: "Caressa"
+  surname: "Sullivan"
+  dateOfBirth: "01/09/1992"
+  country: "United States"
+  city: "Fort Mill"
+  address: "2923 Eppington South Drive"
+  phonePrefix: "[]"
+  phone: "[]"
+  email: "[]"
+  github: "[]"
+  linkedin: "[]"
 
 self_identification:
   gender: "[Specific gender identification]"
@@ -19,44 +19,44 @@ self_identification:
   ethnicity: "[Specify ethnicity]"
 
 legal_authorization:
-  euWorkAuthorization: [true/false]
-  usWorkAuthorization: [true/false]
-  requiresUsVisa: [true/false]
-  legallyAllowedToWorkInUs: [true/false]
-  requiresUsSponsorship: [true/false]
-  requiresEuVisa: [true/false]
-  legallyAllowedToWorkInEu: [true/false]
-  requiresEuSponsorship: [true/false]
+  euWorkAuthorization: false
+  usWorkAuthorization: false
+  requiresUsVisa: false
+  legallyAllowedToWorkInUs: true
+  requiresUsSponsorship: false
+  requiresEuVisa: false
+  legallyAllowedToWorkInEu: false
+  requiresEuSponsorship: false
 
 work_preferences:
-  remoteWork: [true/false]
-  inPersonWork: [true/false]
-  openToRelocation: [true/false]
-  willingToCompleteAssessments: [true/false]
-  willingToUndergoDrugTests: [true/false]
-  willingToUndergoBackgroundChecks: [true/false]
+  remoteWork: true
+  inPersonWork: true
+  openToRelocation: false
+  willingToCompleteAssessments: true
+  willingToUndergoDrugTests: true
+  willingToUndergoBackgroundChecks: true
 
 education_details:
-  - degree: "[Bachelor's/Master's/Ph.D.]"
-    university: "[Name of University]"
-    gpa: "[Your GPA]"
-    graduationYear: "[Year of Graduation]"
-    fieldOfStudy: "[Your Field of Study]"
+  - degree: "Bachelor's"
+    university: "University of South Carolina"
+    gpa: "3.1"
+    graduationYear: "2015"
+    fieldOfStudy: "Biology"
     skillsAcquired:
-      leadership: "[Years]"
-      problemSolving: "[Years]"
-      criticalThinking: "[Years]"
-      adaptability: "[Years]"
-      perfectionism: "[Years]"
-      yourSkill: "[Years]"
-      yourSkill: "[Years]"
+      leadership: "100"
+      problemSolving: "100"
+      criticalThinking: "100"
+      adaptability: "100"
+      perfectionism: "100"
+      yourSkill: "100"
+      yourSkill: "100"
 
 experience_details:
-  - position: "[Job Title]"
-    company: "[Company Name]"
-    employmentPeriod: "[Month, Year] - [Month, Year]"
-    location: "[City, Country]"
-    industry: "[Industry of the Company]"
+  - position: "Customer Analytics Chemist III"
+    company: "Atotech"
+    employmentPeriod: "March, 2017 - Present"
+    location: "Rock Hill, United States"
+    industry: "Chemical Plating"
     keyResponsibilities:
       responsibility1: "[Description of responsibility1]"
       responsibility2: "[Description of responsibility1]"
